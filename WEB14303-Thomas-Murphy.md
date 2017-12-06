@@ -18,39 +18,26 @@
 
 *The Blog posts for this unit are listed below:*
 
+[ALL BLOG POSTS](http://thomasmurphy.work/category/web14303/)
 
-1. [Draw The Web](http://www.fourthfloor.me/blogs/tsharman/2015/01/10/my-world-wide-web/)
+1. [Week 1: What is the lean startup and how can I use it as a methodology for my project?](http://thomasmurphy.work/2017/12/06/week-1-what-is-the-lean-startup-and-how-can-i-use-it-as-a-methodology-for-my-project/)
 
 
-2. [Unit Learning Goals](https://github.com/TomSharmanWeb/WEB14104/blob/master/students/Tom%20Sharman/WEB14104%20Learning%20Goals.md)
+2. [Week 2:What is your prelimenary design challenge?](http://thomasmurphy.work/2017/12/06/week-2what-is-your-prelimenary-design-challenge/)
 
-3. [Present the bad website you will redesign](https://github.com/TomSharmanWeb/WEB14104/blob/master/students/Tom%20Sharman/3%20Website%20Review/Bad%20Website%20-%20Overview%20of%203.md)
+3. [Week 3: What are some of the techniques to be persuasive when presenting?](http://thomasmurphy.work/2017/12/06/week-3-what-are-some-of-the-techniques-to-be-persuasive-when-presenting/)
 
-4. [Action Plan (Trello)](https://medium.com/@TOMSHARMAN/organising-web-development-1a7bd7c5822)
+4. [Week 4: How can you use Theory of Change as a methodology for your project?](http://thomasmurphy.work/2017/12/06/week-4-how-can-you-use-theory-of-change-as-a-methodology-for-your-project/)
 
-5. [Moodboard](https://www.pinterest.com/tomsharman/harry-seaton-website-inspiration/)
+5. [Week 5: What are your strength and weaknesses in relation to completing this project? And how are you going to address them?](http://thomasmurphy.work/2017/12/06/week-5-what-are-your-strength-and-weaknesses-in-relation-to-completing-this-project-and-how-are-you-going-to-address-them/)
 
-6. [Recipe Evolution: Naked HTML to Gridded CSS (Github Md) ](https://github.com/TomSharmanWeb/WEB14104/blob/master/students/Tom%20Sharman/Recipe%20HTML%26CSS%20Development/recipe_html_%26_css_development.md)
-
-7. [Recipe Evolution: Naked HTML to Gridded CSS (Medium Blog) ](https://medium.com/@TOMSHARMAN/from-naked-html-to-gridded-css-cf7df4eb0620)
-
-8. [The Internet's Own Boy](https://medium.com/@TOMSHARMAN/the-ultimate-price-for-internet-freedom-567d5c503756)
-
-9. [Web Design Myths](https://medium.com/@TOMSHARMAN/design-has-to-be-original-3803d773798c)
-
-10. [Action Plan (Revisited)](https://medium.com/@TOMSHARMAN/wireframe-feedback-plan-of-action-4666f2ab21ce)
-
-11. [jQuery Challenge](https://medium.com/@TOMSHARMAN/jquery-fundimentals-1cb04e73c997)
-
-12. [Debugging](https://medium.com/@TOMSHARMAN/jquery-251ee55becca)
-
-13. [Installing Wordpress locally](https://medium.com/@TOMSHARMAN/how-to-install-wordpress-locally-10de0a5a1a4f)
-
-14. [Destroy the Web](https://medium.com/@TOMSHARMAN/exclude-china-and-india-9f30b33f4e33)
-
-15. [Unit Reflection - What did you learn?](https://medium.com/@TOMSHARMAN/web-development-fc60c2009a06)
 
 ### Presentation
+[PDF VERSION](https://github.com/thomass96/WEB14303-Thomas-Murphy/blob/master/Formative%20Presentation.pdf)
+[KEY NOTE VERSION](https://github.com/thomass96/WEB14303-Thomas-Murphy/blob/master/Formative%20Presentation.key)
+
+### MOODBOARD
+[Image here](https://github.com/thomass96/WEB14303-Thomas-Murphy/blob/master/Moodboard%20Ideas.png) 
 
 
 

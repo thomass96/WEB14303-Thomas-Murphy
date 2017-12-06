@@ -42,6 +42,9 @@
 ## GitHub Repo
 [Click here to view all files](https://github.com/thomass96/WEB14303-Thomas-Murphy/tree/master)
 
+### Leanring Outcomes
+[Click here](https://github.com/thomass96/WEB14303-Thomas-Murphy/blob/master/Learning%20Contract.pdf)
+
 
 
 
